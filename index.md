@@ -20,12 +20,12 @@ blahblah
 
 ## Line Graph
 ![Line Graph](assets/linegraph.jpg)
-<img src="assets/linegraph.jpg" alt="LineGraph" width="500/>
+<img src="assets/linegraph.jpg" alt="Image1" width="500"/>
 
 ## Dot Plot
 ![Dot Plot](assets/dotplot.jpg)
-<img src="assets/dotplot.jpg" alt="DotPloth" width="500/>
+<img src="assets/dotplot.jpg" alt="Image1" width="500"/>
 
 ## Square Plot
-<img src="assets/squareplot.jpg" alt="SquarePlot" width="500/>
 ![Square Plot](assets/squareplot.jpg)
+<img src="assets/squareplot.jpg" alt="Image1" width="500"/>
