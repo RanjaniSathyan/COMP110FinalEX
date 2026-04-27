@@ -24,13 +24,11 @@ We first read the survey data using the read_csv_rows function which gave the or
 In this graph the x axis represents the number of own examples while y represents understanding. This graph shows a positive trend, as students create more example their understanding increases. The line consistently increases apart from a slight dip around 3 examples.
 
 ## Dot Plot
-![Dot Plot](assets/dotplot.jpg)
 <img src="assets/dotplot.png" alt="Image1" width="500"/>
 
 In this plot darker squares represent a higher concentration. This graph has darker squares around the middle ranges meaning 4-5 examples and 4-6 understanding, meaning most students cluster in moderate effort and moderate understanding. 
 
 ## Square/Heat-Style Plot
-![Square Plot](assets/squareplot.jpg)
 <img src="assets/squareplot.png" alt="Image1" width="500"/>
 
 This plot shows individual data points without any averaging. It shows that points are spread across all combinations but denser around middle/high values. There are fewer points in low understanding when own examples are high. This shows that variability just exit but higher example counts tend to avoid low understanding scores. 
