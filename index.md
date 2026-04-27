@@ -6,7 +6,7 @@ layout: default
 # header as freak
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="assets/logo.png" alt="Image of Comp110 rainbow logo" width="500"/>
+<img src="assets/logo.png" alt="Logo" width="500"/>
 
 ## Our Idea
 
@@ -19,10 +19,10 @@ The idea we chose to analyze was whether students should frequently create their
 blahblah
 
 ## Line Graph
-![Line Graph](assets/line_graph.jpg)
+![Line Graph](assets/line%20graph.jpg)
 
 ## Dot Plot
-![Dot Plot](assets/dot_plot.jpg)
+![Dot Plot](assets/dot%20plot.jpg)
 
 ## Square Plot
-![Square Plot](assets/square_plot.jpg)
+![Square Plot](assets/square%20plot.jpg) 
