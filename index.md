@@ -19,10 +19,10 @@ The idea we chose to analyze was whether students should frequently create their
 blahblah
 
 ## Line Graph
-![Line Graph](assets/line%20graph.jpg)
+![Line Graph](assets/linegraph.jpg)
 
 ## Dot Plot
-![Dot Plot](assets/dot%20plot.jpg)
+![Dot Plot](assets/dotplot.jpg)
 
 ## Square Plot
-![Square Plot](assets/square%20plot.jpg) 
+![Square Plot](assets/squareplot.jpg)
